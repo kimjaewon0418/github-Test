@@ -1,4 +1,6 @@
-#inclide <stdio.h>
+#include <stdio.h>
 int main ()
 {
+  printf("hello C");
+  return 0;
 }
